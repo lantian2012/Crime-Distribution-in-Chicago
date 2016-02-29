@@ -14,21 +14,20 @@ This project focuses on predicting crime rates in various locations in Chicago, 
 
 ## Dataset
 
-Crime data directly from the Chicago Police Department’s reporting system are available as part of the Chicago open data initiative [5]. The dataset contains reported incidents of crime in the City of Chicago on a daily basis from 2001 until present day (excluding the past week). For each of the more than 5.5 million samples, the crime type, time of day, and location are available.
+Crime data directly from the Chicago Police Department’s reporting system are available as part of the Chicago open data initiative. The dataset contains reported incidents of crime in the City of Chicago on a daily basis from 2001 until present day (excluding the past week). For each of the more than 5.5 million samples, the crime type, time of day, and location are available.
+
+Download the data set [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2). 
 
 ## Files
 
 1. Data Exploration
-
-Visualize trend in the dataset.
+  Visualize trend in the dataset.
 
 2. Sampling
-
-Model the data distribution.
+  Model the data distribution.
 
 3. Optimization
-
-Optimize the location of police stations.
+  Optimize the location of police stations.
 
 
 ## Contributors
