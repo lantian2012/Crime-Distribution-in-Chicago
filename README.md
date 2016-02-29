@@ -21,12 +21,17 @@ Download the data set [here](https://data.cityofchicago.org/Public-Safety/Crimes
 ## Files
 
 1. Data Exploration
+
   Visualize trend in the dataset.
 
+
 2. Sampling
+
   Model the data distribution.
 
+
 3. Optimization
+
   Optimize the location of police stations.
 
 
